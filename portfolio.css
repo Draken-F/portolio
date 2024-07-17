@@ -1,0 +1,33 @@
+
+.navbar-nav a:hover{
+    color: rgb(230, 159, 159);
+    transition: 0.5s;
+}
+
+.des{
+    width: fit-content;
+}
+
+.diff a{
+    text-decoration: none;
+}
+
+
+.date p{
+    border-radius: 30px;
+    width: 80px;
+    height: fit-content;
+}
+
+img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    z-index: 2;
+}
+
+
+/* featured-image */
+.featured-image{
+    width: 100%;
+    height: 230px;
+}
